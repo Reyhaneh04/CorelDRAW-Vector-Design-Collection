@@ -10,7 +10,7 @@ This repository contains a collection of vector and geometric designs created as
 
 ### Design 1
 
-[View Image](./reyhaneh%20dehghanan-az1%28star1%29.jpg)
+(./reyhaneh%20dehghanan-az1%28star1%29.jpg)
 
 ![Design 1](./reyhaneh%20dehghanan-az1%28star1%29.jpg)
 
