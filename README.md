@@ -32,8 +32,7 @@ The collection focuses on geometric shapes, radial patterns, decorative composit
 
 ### Design 6
 
-![Design 6](./reyhane%20dehghanan-az1%28star6%29.jpg)
-
+![Design 6](./reyhaneh%20dehghanan-az1%28star6%29.jpg)
 ## Source File
 
 The original CorelDRAW source file is included in the repository.
