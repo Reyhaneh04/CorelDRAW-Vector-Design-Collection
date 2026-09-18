@@ -12,21 +12,31 @@ The collection focuses on geometric shapes, radial patterns, decorative composit
 
 ### Design 1
 
+![Design 1](./reyhaneh%20dehghanan-az1%28star1%29.jpg)
+
 ### Design 2
+
+![Design 2](./reyhaneh%20dehghanan-az1%28star2%29.jpg)
 
 ### Design 3
 
+![Design 3](./reyhaneh%20dehghanan-az1%28star3%29.jpg)
+
 ### Design 4
+
+![Design 4](./reyhaneh%20dehghanan-az1%28star4%29.jpg)
 
 ### Design 5
 
+![Design 5](./reyhaneh%20dehghanan-az1%28star5%29.jpg)
+
 ### Design 6
+
+![Design 6](./reyhane%20dehghanan-az1%28star6%29.jpg)
 
 ## Source File
 
-The original CorelDRAW source file is included in the repository:
-
-* `reyhaneh dehghanan-az1.cdr`
+The original CorelDRAW source file is included in the repository.
 
 ## Software
 
